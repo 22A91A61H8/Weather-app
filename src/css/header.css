@@ -1,0 +1,9 @@
+.header {
+  background-color: #282c34; /* Dark background */
+  padding: 20px;             /* Space around text */
+  color: white;              /* Text color */
+  text-align: center;        /* Center the text */
+  font-size: 24px;           /* Large font size */
+  font-weight: bold;         /* Bold text */
+  font-family: 'Poppins', sans-serif; /* Match app font */
+}
